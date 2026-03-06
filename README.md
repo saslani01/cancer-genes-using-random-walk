@@ -2,6 +2,8 @@
 
 Analysis of cancer driver gene proximity in the human Protein-Protein Interaction (PPI) network using Shortest Path (Dijkstra) and Random Walk with Restarts (RWR).
 
+For the full write-up including methods, results, and analysis, see [report.pdf](./report.pdf).
+
 ## Overview
 
 Proteins that share a biological function tend to interact with many of the same partners, placing them close to one another in the Protein-Protein Interaction (PPI) network. Cancer driver genes, which cooperate to dysregulate cell growth, division, and survival, are expected to follow this same pattern: they should be significantly more proximal to each other in the network than a randomly chosen set of proteins of the same size.
